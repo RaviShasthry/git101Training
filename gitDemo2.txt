@@ -1,1 +1,7 @@
-some code
+some code 
+
+fixing the code .. 
+
+doiing proper fix
+
+code fixed..
